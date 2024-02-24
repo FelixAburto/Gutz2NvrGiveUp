@@ -7,7 +7,7 @@
 - <b>Microsoft Sentinal</b>
   - [Implementing a SIEM In Azure and Mapping Live Cyber Attacks](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</i>
 - <b>PowerShell</b>
-  - [Monitor and Alert Windows Security Events with Powershell](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Monitor and Alert Windows Security Events with Powershell](https://github.com/Gutz2NvrGiveUp/Monitor-and-Alert-Windows-Security-Events-with-PowerShell/blob/main/README.md)
 - <b>Vulnerability Management</b>
   - [Vulernability Management Lifecycle with Azure](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Python</b>
