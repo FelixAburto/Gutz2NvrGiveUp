@@ -11,7 +11,7 @@
 - <b>Vulnerability Management</b>
   - [Vulernability Management Lifecycle with Azure](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Python</b>
-  - [Phishing Email Analysis Automation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Phishing Email Analysis Automation](https://github.com/Gutz2NvrGiveUp/Phishing-Email-Analysis-Automation)
  
 <h2>📜 Certifications</h2>
 
