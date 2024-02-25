@@ -2,7 +2,7 @@
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
-- <b>Bash Scripting</b>
+- <b>Incident Response with Bash</b>
   - [Automating Incident Response Tasks with Bash](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Microsoft Sentinal</b>
   - [Implementing a SIEM In Azure and Mapping Live Cyber Attacks](https://github.com/Gutz2NvrGiveUp/Implementing-a-SIEM-In-Azure-and-Mapping-Live-Cyber-Attacks)</i>
