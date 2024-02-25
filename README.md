@@ -6,10 +6,10 @@
   - [Automating Incident Response Tasks with Bash](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Microsoft Sentinal</b>
   - [Implementing a SIEM In Azure and Mapping Live Cyber Attacks](https://github.com/Gutz2NvrGiveUp/Implementing-a-SIEM-In-Azure-and-Mapping-Live-Cyber-Attacks)</i>
-- <b>PowerShell</b>
-  - [Monitor and Alert Windows Security Events with Powershell](https://github.com/Gutz2NvrGiveUp/Monitor-and-Alert-Windows-Security-Events-with-PowerShell)
 - <b>Vulnerability Management</b>
   - [Vulernability Management Lifecycle with Azure](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>PowerShell</b>
+  - [Monitor and Alert Windows Security Events with Powershell](https://github.com/Gutz2NvrGiveUp/Monitor-and-Alert-Windows-Security-Events-with-PowerShell)
 - <b>Python</b>
   - [Phishing Email Analysis Automation](https://github.com/Gutz2NvrGiveUp/Phishing-Email-Analysis-Automation)
  
