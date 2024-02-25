@@ -5,7 +5,7 @@
 - <b>Bash Scripting</b>
   - [Automating Incident Response Tasks with Bash](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Microsoft Sentinal</b>
-  - [Implementing a SIEM In Azure and Mapping Live Cyber Attacks](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</i>
+  - [Implementing a SIEM In Azure and Mapping Live Cyber Attacks](https://github.com/Gutz2NvrGiveUp/Implementing-a-SIEM-In-Azure-and-Mapping-Live-Cyber-Attacks)</i>
 - <b>PowerShell</b>
   - [Monitor and Alert Windows Security Events with Powershell](https://github.com/Gutz2NvrGiveUp/Monitor-and-Alert-Windows-Security-Events-with-PowerShell)
 - <b>Vulnerability Management</b>
