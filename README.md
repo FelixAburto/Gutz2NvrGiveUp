@@ -3,7 +3,7 @@
 <h2>🔒 Cybersecurity Projects:</h2>
 
 - <b>Incident Response with Bash</b>
-  - [Automating Incident Response Tasks with Bash](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Automating Incident Response Tasks with Bash](https://github.com/Gutz2NvrGiveUp/Automating-Incident-Response-Tasks-with-Bash/tree/main)
 - <b>Vulnerability Management</b>
   - [Vulernability Management Lifecycle with Azure](https://github.com/Gutz2NvrGiveUp/Vulnerability-Management-with-Azure/tree/main)
 - <b>Microsoft Sentinal</b>
