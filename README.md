@@ -2,16 +2,18 @@
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
-- <b>Incident Response with Bash</b>
+### <b>Incident Response with Bash</b>
   - [Automating Incident Response Tasks with Bash](https://github.com/Gutz2NvrGiveUp/Automating-Incident-Response-Tasks-with-Bash/tree/main)
-- <b>Vulnerability Management</b>
+  - [Automating Incident Response Tasks with Bash Part 2: Post Incident Response Report](https://github.com/Gutz2NvrGiveUp/Automating-Incident-Response-Tasks-with-Bash/tree/main)
+
+### <b>Vulnerability Management</b>
   - [Vulernability Management Lifecycle with Azure](https://github.com/Gutz2NvrGiveUp/Vulnerability-Management-with-Azure/tree/main)
-- <b>Microsoft Sentinal</b>
+### <b>Microsoft Sentinal</b>
   - [Implementing a SIEM In Azure and Mapping Live Cyber Attacks](https://github.com/Gutz2NvrGiveUp/Implementing-a-SIEM-In-Azure-and-Mapping-Live-Cyber-Attacks)</i>
-- <b>PowerShell</b>
+### <b>PowerShell</b>
   - [Monitor and Alert Windows Security Events with Powershell](https://github.com/Gutz2NvrGiveUp/Monitor-and-Alert-Windows-Security-Events-with-PowerShell)
-- <b>Python</b>
-  - [Phishing Email Analysis Automation](https://github.com/Gutz2NvrGiveUp/Phishing-Email-Analysis-Automation)
+### <b>Python</b>
+  - [Phishing Email Analysis Automation and Phishing Analysis Report](https://github.com/Gutz2NvrGiveUp/Phishing-Email-Analysis-Automation)
  
 <h2>📜 Certifications</h2>
 
