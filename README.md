@@ -1,4 +1,4 @@
-<h1>Hello There! My Name is Felix! <br/>IT Professional and Aspiring Cybersecurity Professional</h1>
+<h1>Hello There! My Name is Felix! <br/><br/>IT Professional and Aspiring Cybersecurity Professional</h1>
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
