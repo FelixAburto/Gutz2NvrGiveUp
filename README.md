@@ -4,7 +4,7 @@
 
 ### <b>Incident Response with Bash</b>
   - [Automating Incident Response Tasks with Bash](https://github.com/Gutz2NvrGiveUp/Automating-Incident-Response-Tasks-with-Bash/tree/main)
-  - [Automating Incident Response Tasks with Bash Part 2: Post Incident Response Report](https://github.com/Gutz2NvrGiveUp/Automating-Incident-Response-Tasks-with-Bash/tree/main)
+  - [Automating Incident Response Tasks with Bash Part 2: Post Incident Response Report](https://github.com/Gutz2NvrGiveUp/Automating-Incident-Response-Tasks-with-Bash-Part-2-Post-Incident-Response-Report)
 
 ### <b>Vulnerability Management</b>
   - [Vulernability Management Lifecycle with Azure](https://github.com/Gutz2NvrGiveUp/Vulnerability-Management-with-Azure/tree/main)
