@@ -27,7 +27,7 @@
 <a href="https://www.credly.com/badges/d42fe297-9a85-4c51-923e-9660606e46ff/public_url">
     <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="Comptia Security +" width="140" height="140"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/earner/earned/badge/d4697ae3-b1da-4e9d-8818-19feb39cd855">
+<a href="https://www.credly.com/badges/d4697ae3-b1da-4e9d-8818-19feb39cd855/public_url">
     <img src="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Comptia Network +" width="140" height="140"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/f2738ea4-5c76-47f7-9e89-0df619f9c870/public_url">
