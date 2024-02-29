@@ -4,6 +4,8 @@
 
 ### <b>Incident Response with Bash</b>
   - [Automating Incident Response Tasks with Bash](https://github.com/Gutz2NvrGiveUp/Automating-Incident-Response-Tasks-with-Bash/tree/main)
+<br />
+
   - [Automating Incident Response Tasks with Bash Part 2: Post Incident Response Report](https://github.com/Gutz2NvrGiveUp/Automating-Incident-Response-Tasks-with-Bash-Part-2-Post-Incident-Response-Report)
 
 ### <b>Vulnerability Management</b>
@@ -41,13 +43,11 @@
 </a>
 
 
-<!-- Repeat for other certifications -->
-
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Felix Aburto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/felix-calderon-8461b118a/
 
