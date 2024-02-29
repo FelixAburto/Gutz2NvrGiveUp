@@ -21,7 +21,7 @@
 <h2>📜 Certifications</h2>
 
 <a href="https://www.credly.com/badges/3a7f8a4f-e95f-400f-a05b-b7f74b0df003/public_url">
-    <img src="https://images.credly.com/size/680x680/images/d7f68b5e-5282-4697-8a1e-7e6e16d7d45f/btl1certified.png" alt="Blue Team Level 1" width="150" height="150"/>
+    <img src="https://images.credly.com/size/680x680/images/d7f68b5e-5282-4697-8a1e-7e6e16d7d45f/btl1certified.png" alt="Blue Team Level 1" width="140" height="140"/>
 </a>&nbsp;
 <a href="https://www.credly.com/badges/721c3a16-6e02-4380-82a2-ba46b01d0980/public_url">
     <img src="https://images.credly.com/size/680x680/images/5cb4b153-44d8-410c-97c6-6afba3faa4af/Comptia_CySA_2Bce.png" alt="Comptia Cybersecurity Analyst +" width="140" height="140"/>
